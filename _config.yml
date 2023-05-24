@@ -140,19 +140,19 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/jurodemann
+      #url: https://twitter.com/jurodemann
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
-      url: https://www.linkedin.com/in/julian-rodemann-717393141/
+      #url: https://www.linkedin.com/in/julian-rodemann-717393141/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/rodemann
+      #url: https://github.com/rodemann
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: https://gitlab.lrz.de/J.Rodemann
+      #url: https://gitlab.lrz.de/J.Rodemann
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
-      url: https://bitbucket.org/jurodemann/
+      #url: https://bitbucket.org/jurodemann/
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: 
