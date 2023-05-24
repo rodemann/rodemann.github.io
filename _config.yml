@@ -106,7 +106,8 @@ analytics:
 author:
   name             : "Julian Rodemann"
   avatar           : #"\assets\images\bild-julian.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate in Statistics, LMU Munich"
+  bio              : "PhD Candidate, LMU Munich"
+
   location         : "Munich, Germany"
   email            : #"mail@julian-rodemann.de"
   links:
@@ -120,7 +121,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jurodemann"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/julian-rodemann-717393141/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
