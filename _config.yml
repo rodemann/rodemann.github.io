@@ -107,7 +107,7 @@ author:
   name             : "Julian Rodemann"
   avatar           : #"\assets\images\bild-julian.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate in Statistics, LMU Munich"
-  location         : "Munich, Germany"
+  location         : "Munich, Germany "
   email            : #"mail@julian-rodemann.de"
   # links:
   #   - label: "Email"
