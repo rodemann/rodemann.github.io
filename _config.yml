@@ -104,8 +104,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Julian Rodemann"
+  avatar           : "C:/Users/Julian Rodemann/Pictures/bild-julian" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate, LMU Munich"
   location         : "Munich, Germany"
   email            :
