@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "About"
+  - title: "Teaching"
+    url: /_pages/teaching
+  - title: "Research"
     url: /_pages/about
+  - title: "Bio"
+    url: /_pages/about
+  - title: "About"
+    url: /_pages/about    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
