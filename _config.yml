@@ -168,7 +168,8 @@ author:
 include:
   - .htaccess
   - assets/images
- # - _pages
+  - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -304,3 +305,5 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
