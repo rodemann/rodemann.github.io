@@ -4,6 +4,7 @@ permalink: _pages/teaching/
 date: 2023-05-10T03:02:20+00:00
 ---
 
+Teaching as PhD Candidate:
 
 * Summer Term, 2023
     * Causality (Exercise)
@@ -17,3 +18,13 @@ date: 2023-05-10T03:02:20+00:00
     * Statistics for Geosciences (Lecture and Exercise)
     * Economic and Social Statistics (Lecture and Exercise)
     * Probability Theory and Inference I (Exercise)
+
+
+Teaching as Student: 
+
+* Summer Term, 2021
+    * Introduction to Probability Calculus and Inferential Statistics (Tutorial)
+Winter Term, 2019/20
+    * Generalized Regression Models (Tutorial)
+Summer Term, 2019
+    * Linear Models (Tutorial)    
