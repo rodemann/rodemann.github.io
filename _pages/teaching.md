@@ -20,7 +20,7 @@ Teaching as PhD Candidate:
     * Probability Theory and Inference I (Exercise)
 
 
-Teaching as Student: 
+I also taught some undergraduate courses during my master's: 
 
 * Summer Term, 2021
     * Introduction to Probability Calculus and Inferential Statistics (Tutorial)
