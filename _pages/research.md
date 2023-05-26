@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: categories
+layout: splash
 permalink: _pages/research/
 date: 2016-02-24T03:02:20+00:00
 ---
