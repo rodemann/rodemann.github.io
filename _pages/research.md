@@ -8,10 +8,11 @@ date: 2023-05-10T03:02:20+00:00
 
 Hi! Thanks for your interest in my research. 
 
-I am a statistician working on reliable machine learning. In particular, I try to incorporate epistemic modeling uncertainty into adaptive machine learning methods such as self-training, superset learning or Bayesian optimization. To this end, I mainly rely on ideas from the realm of Imprecise Probabilities.   
+I am a statistician working on reliable machine learning. In particular, I try to incorporate epistemic modeling uncertainty into adaptive machine learning methods such as self-training, superset learning or Bayesian optimization. To this end, I mainly rely on ideas from the realm of imprecise probabilities.   
 
 ## Research Interests
 
+* All things Bayesian
 * Imprecise Probabilities
     * Generalized Bayes
     * Imprecise Gaussian Processes
@@ -20,7 +21,6 @@ I am a statistician working on reliable machine learning. In particular, I try t
 * Superset Learning/Inference
 * Weak Supervision
 
-Besides, I am interested in all things Bayesian.
 
 ## Publications
 
