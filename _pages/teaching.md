@@ -24,7 +24,7 @@ Teaching as Student:
 
 * Summer Term, 2021
     * Introduction to Probability Calculus and Inferential Statistics (Tutorial)
-Winter Term, 2019/20
+* Winter Term, 2019/20
     * Generalized Regression Models (Tutorial)
-Summer Term, 2019
+* Summer Term, 2019
     * Linear Models (Tutorial)    
