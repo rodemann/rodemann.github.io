@@ -1,6 +1,6 @@
 ---
-title: "Research"
-permalink: _pages/research/
+title: "Teaching"
+permalink: _pages/teaching/
 date: 2023-05-10T03:02:20+00:00
 ---
 
