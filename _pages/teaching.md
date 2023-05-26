@@ -1,3 +1,4 @@
+
 ---
 title: "Teaching"
 permalink: _pages/teaching/
