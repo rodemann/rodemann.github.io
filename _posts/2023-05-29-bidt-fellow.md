@@ -1,8 +1,7 @@
 ---
 layout: single
-title:  "I'll be joining the Graduate Center @BIDT_Muenchen"
+title:  "I'll be joining the Graduate Center @BIDT of the Bavarian Academy of Sciences"
 ---
-This site is currently under construction. Stay tuned for updates. You might also want to visit [my LMU Website](https://www.foundstat.statistik.uni-muenchen.de/personen/mitglieder/rodemann/index.html).
 
 
 
