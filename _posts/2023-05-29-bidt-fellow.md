@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Will join the graduate center at Bavarian Academy of Sciences"
+title:  "Will Join the Graduate Center at Bavarian Academy of Sciences"
 ---
 
 
