@@ -15,7 +15,7 @@ Teaching as PhD Candidate:
     * Basic Probability Theory (Exercise)
     * Statistics as Minor IV (Lecture and Exercie)
 * Winter Term, 2021/2022
-    * Statistics for Geosciences (Lecture and Exercise)
+    * Statistics for Geosciences (Exercise)
     * Economic and Social Statistics (Lecture and Exercise)
     * Probability Theory and Inference I (Exercise)
 
