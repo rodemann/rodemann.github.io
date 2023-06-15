@@ -1,8 +1,8 @@
 ---
-title: "CV"
+title: "Bio"
 permalink: _pages/bio/
 header:
-  overlay_image: /assets/images/alpspitze-6.jpg
+  overlay_image: /assets/images/alpspitze-6.JPG
   overlay_filter: 0.5
 date: 2023-05-10T03:02:20+00:00
 ---
