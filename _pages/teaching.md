@@ -6,7 +6,7 @@ date: 2023-05-10T03:02:20+00:00
 
 
 > "If you want to master something, teach it. The more you teach, the better you learn."
-> - <cite>Richard Feynman</cite>
+> -- Richard Feynman
 
 
 
