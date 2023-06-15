@@ -6,8 +6,7 @@ date: 2023-05-10T03:02:20+00:00
 
 
 > "If we knew what it was we were doing, it would not be called research, would it?"
->
-> -- <cite>Albert Einstein</cite>
+> - <cite>Albert Einstein</cite>
 
 Thanks for your interest in my research. 
 
