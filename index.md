@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 header:
-  image: /assets/images/alpspitze.JPG
+  image: /assets/images/alpspitze-2.JPG
   caption: "Photo credit: Hendrik Cech"
 ---
 
