@@ -1,6 +1,7 @@
 ---
 layout: home
-title: "**Hi and welcome to my personal website!** :+1: " 
+title: "**Hi! :wave: 
+Welcome to my personal website :huggingface: **  " 
 author_profile: true
 header:
   overlay_filter: 0.4
