@@ -1,3 +1,3 @@
+gem 'jemoji'
 source "https://rubygems.org"
 gemspec
-gem 'jemoji'
