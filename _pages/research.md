@@ -5,8 +5,11 @@ date: 2023-05-10T03:02:20+00:00
 ---
 
 
+> "If we knew what it was we were doing, it would not be called research, would it?"
+>
+> -- <cite>Albert Einstein</cite>
 
-Hi! Thanks for your interest in my research. 
+Thanks for your interest in my research. 
 
 I am a statistician working on reliable machine learning. In particular, I try to incorporate epistemic modeling uncertainty into adaptive machine learning methods such as self-training, superset learning or Bayesian optimization. To this end, I mainly rely on ideas from the realm of imprecise probabilities.   
 
