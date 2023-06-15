@@ -1,7 +1,8 @@
 ---
 layout: home
 author_profile: true
-excerpt: "Hi and welcome to my personal website!"
+excerpt: "**Hi and welcome to my personal website!**" 
+tagline: "**Hi and welcome to my personal website!**"
 header:
   overlay_filter: 0.2
   overlay_image: /assets/images/alpspitze-4.JPG
