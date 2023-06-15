@@ -1,5 +1,5 @@
 ---
-title: "Bio"
+title: "Bio <br> <br> "
 permalink: _pages/bio/
 header:
   overlay_image: /assets/images/alpspitze-6.JPG
@@ -60,7 +60,7 @@ Apprenticeship as Journalist
 
 
 ----------------
-For my full CV, just drop me a message: mail@julian-rodemann.
+For my full CV just drop me a message: mail@julian-rodemann.
 
 
 
