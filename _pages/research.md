@@ -8,8 +8,8 @@ date: 2023-05-10T03:02:20+00:00
 ---
 
 
-> "If we knew what it was we were doing, it would not be called research, would it?"
-> -- Albert Einstein
+> "Science is not a collection of facts, but a constant struggle with the mysteries of nature."
+> -- Judea Pearl
 
 Thanks for your interest in my research. 
 
