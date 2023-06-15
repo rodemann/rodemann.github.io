@@ -6,8 +6,8 @@ main:
     url: /_pages/research/
   - title: "Bio"
     url: /_pages/bio/
-  - title: "About"
-    url: /_pages/about/    
+  - title: "Home"
+    url: https://rodemann.github.io/    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
