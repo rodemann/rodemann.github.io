@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Teaching"
+  - title: "Teaching :man_teacher: "
     url: /_pages/teaching/
   - title: "Research :nerd_face: "
     url: /_pages/research/
-  - title: "Bio"
+  - title: "Bio :bowtie: "
     url: /_pages/bio/
   - title: "Home"
     url: https://rodemann.github.io/    
