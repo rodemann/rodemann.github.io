@@ -132,11 +132,13 @@ author:
       icon: "fab fa-fw fa-bitbucket"
       url: "https://bitbucket.org/jurodemann/"
     - label: "Google Scholar"
-      icon: "fab fa-brands fa-google"
+      icon: "fas fa-solid fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=hIcjYocAAAAJ&hl=de"
     - label: "Researchgate"
-      icon: "fas fa-solid fa-graduation-cap"
+      icon: "fab fa-brands fa-researchgate"
       url: "https://www.researchgate.net/profile/Julian-Rodemann"
+
+<FontAwesomeIcon icon="fa-brands fa-researchgate" />
 
 # Site Footer
 # footer:
