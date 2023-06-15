@@ -8,6 +8,11 @@ header:
   caption: "Photo credit: Hendrik Cech"
 classes: wide
 ---
+<style>
+.emoji-big-size img {font-size: 4rem;}
+</style>
+
+{: .emoji-big-size}
 
 Hi there! :wave: <br>
 
