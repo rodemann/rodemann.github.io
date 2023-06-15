@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Julian Rodemann"
+  name             : "Julian Rodemann  :student: "
   avatar           : "/assets/images/bild-julian.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " :student: PhD Candidate, LMU Munich "
+  bio              : "PhD Candidate, LMU Munich "
   location         : "Munich :de: "
   email            : #"mail@julian-rodemann.de"
   links:
