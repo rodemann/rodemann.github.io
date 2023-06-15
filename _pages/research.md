@@ -2,9 +2,6 @@
 title: "Research"
 permalink: _pages/research/
 date: 2023-05-10T03:02:20+00:00
-header:
-  image: /assets/images/alpspitze.jpg
-  caption: "Photo credit: Hendrik Cech"
 ---
 
 
