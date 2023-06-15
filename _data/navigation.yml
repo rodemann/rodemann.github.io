@@ -6,7 +6,7 @@ main:
     url: /_pages/research/
   - title: "Bio :bowtie: "
     url: /_pages/bio/
-  - title: "Home"
+  - title: "Home :house: "
     url: https://rodemann.github.io/    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
