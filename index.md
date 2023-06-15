@@ -5,6 +5,7 @@ header:
   overlay_filter: 0.15
   overlay_image: /assets/images/alpspitze-4.JPG
   caption: "Photo credit: Hendrik Cech"
+classes: wide
 ---
 
 Hi and welcome to my personal website! 
