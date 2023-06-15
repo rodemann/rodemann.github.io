@@ -4,7 +4,14 @@ permalink: _pages/teaching/
 date: 2023-05-10T03:02:20+00:00
 ---
 
-Teaching as PhD Candidate:
+
+> "If you want to master something, teach it. The more you teach, the better you learn."
+>
+> -- <cite>Richard Feynman</cite>
+
+
+
+As PhD Candidate:
 
 * Summer Term, 2023
     * Causality (Exercise)
