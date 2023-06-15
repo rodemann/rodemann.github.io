@@ -134,7 +134,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-brands fa-google"
       url: "https://scholar.google.com/citations?user=hIcjYocAAAAJ&hl=de"
-
+    - label: "Researchgate"
+      icon: "fab fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Julian-Rodemann"
 
 # Site Footer
 # footer:
