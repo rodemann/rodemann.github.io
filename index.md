@@ -4,7 +4,7 @@ author_profile: true
 excerpt: "**Hi and welcome to my personal website!**  " 
 tagline: "**Hi and welcome to my personal website!**  "
 header:
-  overlay_filter: 0.2
+  overlay_filter: 0.4
   overlay_image: /assets/images/alpspitze-5.JPG
   caption: "Photo credit: Hendrik Cech"
 classes: wide
