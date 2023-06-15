@@ -1,6 +1,9 @@
 ---
 title: "Teaching"
 permalink: _pages/teaching/
+header:
+  overlay_filter: 0.15
+  overlay_image: /assets/images/alpspitze.JPG
 date: 2023-05-10T03:02:20+00:00
 ---
 
