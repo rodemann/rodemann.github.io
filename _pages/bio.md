@@ -1,8 +1,8 @@
 ---
-title: "Bio"
+title: "CV"
 permalink: _pages/bio/
 header:
-  overlay_image: /assets/images/cv.jpg
+  overlay_image: /assets/images/alpspitze-6.jpg
   overlay_filter: 0.5
 date: 2023-05-10T03:02:20+00:00
 ---
@@ -10,7 +10,7 @@ date: 2023-05-10T03:02:20+00:00
 
 
 ## Education
----------------
+
 
 __2021 - today__<br/>
 LMU Munich, Germany<br/>
@@ -32,8 +32,8 @@ __2014 - 2018__<br/>
 Cologne School of Journalism, Germany
 Apprenticeship as Journalist
 
+
 ## Fellowships and Scholarships
----------------
 
 * Artificial Intelligence Journal fellowship by Elsevier to attend ISIPTA 2023
 
@@ -46,7 +46,6 @@ Apprenticeship as Journalist
 
 
 ## Awards and Nominations
----------------
 
 * “Young Statistician” award by Gesellschaft f¨ur Klassifikation (GfKl) and International Biometric Society (IBS) Early Career Working Group, German region (IBS-DR), 2022
 
@@ -57,10 +56,13 @@ Apprenticeship as Journalist
 * Prize for best master thesis in 2021 at the Department of Statistics, LMU Munich, 2021 
 
 
-----------------
-For my full CV, just drop me a message: mail@julian-rodemann.de
 
----------------
+
+
+----------------
+For my full CV, just drop me a message: mail@julian-rodemann.
+
+
 
 
 
