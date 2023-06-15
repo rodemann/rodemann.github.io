@@ -9,7 +9,7 @@ header:
 
 
 > "If we knew what it was we were doing, it would not be called research, would it?"
-> - <cite>Albert Einstein</cite>
+> -- Albert Einstein
 
 Thanks for your interest in my research. 
 
