@@ -23,14 +23,14 @@ MSc in Statistics
 
 __2018 - present__<br/>
 FU Hagen, Germany<br/>
-BSc in Mathematics
+BSc in Mathematics 
 
 __2014 - 2018__<br/>
 University of Cologne, Germany<br/>
 BSc in Economics (Minor: Statistics)
 
 __2014 - 2018__<br/>
-Cologne School of Journalism, Germany
+Cologne School of Journalism, Germany<br/>
 Apprenticeship as Journalist
 
 

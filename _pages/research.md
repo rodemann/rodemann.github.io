@@ -27,7 +27,7 @@ I am a statistician working on reliable machine learning. In particular, I try t
 * Weak Supervision
 * ... [^1]
 
-[^1]: "If we knew what it was we were doing, it would not be called research, would it? -- Albert Einstein"  
+[^1]: "If we knew what it was we were doing, it would not be called research, would it?" -- Albert Einstein  
 
 
 ## Publications
