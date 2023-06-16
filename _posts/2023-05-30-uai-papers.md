@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Two Papers Accepted at UAI :champagne: "
+title:  "Two Papers Accepted at UAI :champagne: :champagne: "
 ---
 
 
