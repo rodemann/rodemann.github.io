@@ -2,11 +2,11 @@
 main:
   - title: "Teaching :man_teacher: "
     url: /_pages/teaching/
-  - title: "Research :nerd_face: "
+  - title: "Research :thinking: "
     url: /_pages/research/
   - title: "Bio :bowtie: "
     url: /_pages/bio/
-  - title: "Legal :yawning_face: "
+  - title: "Legal :sleeping: "
     url: /_pages/legal/
   - title: "Home :house: "
     url: https://rodemann.github.io/    
