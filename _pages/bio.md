@@ -1,9 +1,10 @@
 ---
-title: "Bio <br> <br> "
+title: "Bio <br> <br> <br> <br> "
 permalink: _pages/bio/
 header:
   overlay_image: /assets/images/alpspitze-6.JPG
   overlay_filter: 0.1
+  caption: "Photo credit: Hendrik Cech"
 date: 2023-05-10T03:02:20+00:00
 ---
 

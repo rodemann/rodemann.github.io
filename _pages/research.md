@@ -1,5 +1,5 @@
 ---
-title: "Research :nerd_face: "
+title: "Research"
 permalink: _pages/research/
 header:
   overlay_filter: 0.35
