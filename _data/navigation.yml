@@ -6,6 +6,8 @@ main:
     url: /_pages/research/
   - title: "Bio :bowtie: "
     url: /_pages/bio/
+  - title: "Legal :yawning_face: "
+    url: /_pages/legal/
   - title: "Home :house: "
     url: https://rodemann.github.io/    
   # - title: "About"
