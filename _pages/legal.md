@@ -3,7 +3,7 @@ title: "Legal <br> "
 permalink: _pages/legal/
 header:
   overlay_image: /assets/images/legal.JPG
-  overlay_filter: 0.4
+  overlay_filter: 0.7
 date: 2023-05-10T03:02:20+00:00
 ---
 
@@ -13,6 +13,7 @@ date: 2023-05-10T03:02:20+00:00
 Inhaltlich verantwortlich und vertretungsberechtigt:
 
 Julian Rodemann
+
 Ortlerstr. 8  
 81373 Muenchen  
 mail[aet]julian-rodemann.de  

@@ -13,9 +13,9 @@ date: 2023-05-10T03:02:20+00:00
 ## Education
 
 
-__2021 - today__<br/>
+__2021 - present__<br/>
 LMU Munich, Germany<br/>
-PhD student
+PhD in Statistics
 
 __2018 - 2021__<br/>
 LMU Munich, Germany<br/>
