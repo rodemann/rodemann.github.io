@@ -48,7 +48,7 @@ Apprenticeship as Journalist
 
 ## Awards and Nominations
 
-* “Young Statistician” award by Gesellschaft f¨ur Klassifikation (GfKl) and International Biometric Society (IBS) Early Career Working Group, German region (IBS-DR), 2022
+* “Young Statistician” award by Gesellschaft für Klassifikation (GfKl) and International Biometric Society (IBS) Early Career Working Group, German region (IBS-DR), 2022
 
 * Best poster award (bronze) at the 12th International Symposium on Imprecise Probability: Theories and Applications (ISIPTA) in Granada, Spain, 2021  
 
