@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Paper Accepted at ISIPTA"
+title:  "Paper Accepted at ISIPTA :champagne: "
 ---
 
 
