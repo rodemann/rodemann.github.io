@@ -13,7 +13,7 @@ date: 2023-05-10T03:02:20+00:00
 ## Education
 
 
-__2021 - present__<br/>
+__October 2021 - present__<br/>
 LMU Munich, Germany<br/>
 PhD in Statistics
 
@@ -32,6 +32,20 @@ BSc in Economics (Minor: Statistics)
 __2014 - 2018__<br/>
 Cologne School of Journalism, Germany<br/>
 Apprenticeship as Journalist
+
+
+## Professional Experience
+
+__October 2021 - present__<br/>
+Working Group Methodological Foundations, Department of Statistics, LMU Munich, Germany<br/>
+[Research](https://rodemann.github.io/_pages/research/) and [Teaching](https://rodemann.github.io/_pages/teaching/) Asisstant
+
+
+__2017 - 2021__<br/>
+Süddeutsche Zeitung <br/>
+Science editor (full-time) in 2020 and freelancer (before and after), mainly covering: statistics, mathematics, computer science, engineering
+
+
 
 
 ## Fellowships and Scholarships
@@ -61,7 +75,7 @@ Apprenticeship as Journalist
 
 
 ----------------
-For my full CV just drop me a message: mail@julian-rodemann.
+For my full CV just drop me a message: mail@julian-rodemann.de
 
 
 
