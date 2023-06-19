@@ -1,4 +1,3 @@
-2022-02-02-iukm-paper
 ---
 layout: single
 title:  "Paper Accepted at IUKM :champagne: "
