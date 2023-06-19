@@ -112,7 +112,7 @@ author:
   links:
     - label: "mail@julian-rodemann.de"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mail[aet]julian-rodemann.de"
+      url: "mailto:mail@julian-rodemann.de"
     - label: "LMU Website"
       icon: "fas fa-university"
       url: "https://www.foundstat.statistik.uni-muenchen.de/personen/mitglieder/rodemann/index.html"
