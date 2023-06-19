@@ -50,9 +50,11 @@ Science editor (full-time) in 2020 and freelancer (before and after), mainly cov
 
 ## Fellowships and Scholarships
 
+* PhD fellowship (4 years) at the graduate center by the Bavarian Research Institute for Digital Transformation (bidt) within the Bavarian Academy of Sciences (BAS) 
+
 * Artificial Intelligence Journal fellowship by Elsevier to attend ISIPTA 2023
 
-* PhD fellowship (4 years) at the graduate center by the Bavarian Research Institute for Digital Transformation (bidt) within the Bavarian Academy of Sciences (BAS) 
+* Scholarship by the Association of Uncertainty in Artificial Intelligence (AUAI) to attend UAI 2023
 
 * LMU Mentoring programm for young researches, year 2023
 
