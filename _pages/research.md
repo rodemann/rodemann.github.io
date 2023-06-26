@@ -4,6 +4,7 @@ permalink: _pages/research/
 header:
   overlay_filter: 0.35
   overlay_image: /assets/images/research-header.jpg
+classes: wide
 date: 2023-05-10T03:02:20+00:00
 ---
 
