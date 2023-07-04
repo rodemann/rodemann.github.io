@@ -33,11 +33,11 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 ## Publications
 
-* Julian Rodemann, Jann Goschenhofer, Emilio Dorigatti, Thomas Nagler, Thomas Augustin (2023): Approximately Bayes-Optimal Pseudo Label Selection. 39th Conference on Uncertainty in Artificial Intelligence **(UAI)**, Pittsburgh, USA. Proceedings of Machine Learning Research (to appear). [preprint](https://arxiv.org/abs/2302.08883)
+* Julian Rodemann, Jann Goschenhofer, Emilio Dorigatti, Thomas Nagler, Thomas Augustin (2023): Approximately Bayes-Optimal Pseudo-Label Selection. 39th Conference on Uncertainty in Artificial Intelligence **(UAI)**, Pittsburgh, USA. Proceedings of Machine Learning Research (to appear). [preprint](https://arxiv.org/abs/2302.08883)
 
 * Christoph Jansen, Georg Schollmeyer, Hannah Blocher, Julian Rodemann, Thomas Augustin (2023): Robust Statistical Comparison of Random Variables with Locally Varying Scale of Measurement. 39th Conference on Uncertaint in Artificial Intelligence **(UAI)**, Pittsburgh, USA. Proceedings of Machine Learning Research (to appear). [preprint](https://chjansen.weebly.com/uploads/1/3/8/2/138228135/jsbra.pdf)
 
-* Julian Rodemann, Christoph Jansen, Georg Schollmeyer, Thomas Augustin (2023): In All Likelihood(s): Robust Selection of Pseudo-Labeled Data. 13th International Symposium on Imprecise Probabilities: Theories and Applications **(ISIPTA)**, Oviedo, Spain. Proceedings of Machine Learning Research (to appear), [preprint](https://arxiv.org/abs/2303.01117)
+* Julian Rodemann, Christoph Jansen, Georg Schollmeyer, Thomas Augustin (2023): In All Likelihood(s): Robust Selection of Pseudo-Labeled Data. 13th International Symposium on Imprecise Probabilities: Theories and Applications **(ISIPTA)**, Oviedo, Spain. Proceedings of Machine Learning Research (to appear), [preprint](https://isipta23.sipta.org/accepted-papers/long-rodemann/)
 
 * Julian Rodemann, Dominik Kreiss, Eyke Hüllermeier, Thomas Augustin (2022): [Levelwise Data Disambiguation by Cautious Superset Classification.](https://link.springer.com/chapter/10.1007/978-3-031-18843-5_18) 15th International Conference on Scalable Uncertainty Management **(SUM)**, Paris, France. Lecture Notes in Artificial Intelligence, Springer.
 
@@ -45,15 +45,15 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 ## Posters
 
-* Julian Rodemann, Thomas Augustin, Rianne de Heide (2023): Interpreting Generalized Bayesian Inference by Generalized Bayesian Inference. *Accepted for presentation at* **ISIPTA**, Oviedo, Spain.
+* Julian Rodemann, Thomas Augustin, Rianne de Heide (2023): Interpreting Generalized Bayesian Inference by Generalized Bayesian Inference. *Accepted for presentation at* **ISIPTA** 2023
 
-* Alexander Marquardt, Julian Rodemann, Thomas Augustin (2023): An Empirical Study of Prior-Data Conflicts in Bayesian Neural Networks. *Accepted for presentation at* **ISIPTA**, Oviedo, Spain.
+* Alexander Marquardt, Julian Rodemann, Thomas Augustin (2023): An Empirical Study of Prior-Data Conflicts in Bayesian Neural Networks. *Accepted for presentation at* **ISIPTA** 2023.
 
-* Julian Rodemann, Jann Goschenhofer, Emilio Dorigatti, Thomas Nagler, Thomas Augustin (2023): Approximately Bayes-Optimal Pseudo Label Selection. *Poster accepted for the* Fifth Symposium on Advances in Approximate Bayesian Inference **AABI**, co-located with **ICML**, Honolulu, Hawai.
+* Julian Rodemann, Jann Goschenhofer, Emilio Dorigatti, Thomas Nagler, Thomas Augustin (2023): Approximately Bayes-Optimal Pseudo Label Selection. *Poster accepted for the* Fifth Symposium on Advances in Approximate Bayesian Inference **AABI**, co-located with **ICML** 2023.
 
-* Julian Rodemann, Sebastian Fischer, Malte Nalenz, Lennart Schneider, Thomas Augustin (2022): Not All Data Are Created Equal - Lessons from Sampling Theory for Adaptive Machine Learning. *Poster presented at* **ICSDS** hosted by the Institute of Mathematical Statistics **(IMS)** in Florence, Italy.
+* Julian Rodemann, Sebastian Fischer, Malte Nalenz, Lennart Schneider, Thomas Augustin (2022): Not All Data Are Created Equal - Lessons from Sampling Theory for Adaptive Machine Learning. *Poster presented at* **ICSDS** 2022 hosted by the Institute of Mathematical Statistics **(IMS)**.
     
-+ Julian Rodemann, Thomas Augustin (2021): Accounting for Imprecision of Model Specification in Bayesian Optimization. *Poster presented at* **ISIPTA**. 
++ Julian Rodemann, Thomas Augustin (2021): Accounting for Imprecision of Model Specification in Bayesian Optimization. *Poster presented at* **ISIPTA**, Granada, Spain. 
 
 
 ## Talks
@@ -68,6 +68,6 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 * Julian Rodemann, Thomas Augustin (2022): A Deep Dive Into BO Sensitivity and PROBO. Young Statistician's Lecture Series **(YSLS)**. **IBS** Early Career Working Group, Germany.
 
-* Julian Rodemann (2017): Clustering lifecycles.Villigst Machine Learning Undergraduate Workshop hosted by Max-Planck-Institute for Intelligent Systems **(MPI-IS)** in Tübingen, Germany.
+* Julian Rodemann (2017): Clustering lifecycles. Villigst Machine Learning Undergraduate Workshop hosted by Max-Planck-Institute for Intelligent Systems **(MPI-IS)** in Tübingen, Germany.
 
 
