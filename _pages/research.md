@@ -14,7 +14,7 @@ date: 2023-05-10T03:02:20+00:00
 
 Thanks for your interest in my research. 
 
-I am a statistician working on reliable machine learning. In particular, I try to incorporate epistemic modeling uncertainty into adaptive machine learning methods such as self-training, superset learning or Bayesian optimization. The goal is to make them more robust towards all kinds of shifts (distributional, label etc.).    
+I am a statistician working on reliable machine learning. In particular, I try to incorporate epistemic modeling uncertainty into adaptive machine learning methods such as self-training, superset learning or Bayesian optimization. To this end, I mainly rely on ideas from the realm of imprecise probabilities.   
 
 ## Research Interests
 
@@ -22,6 +22,7 @@ I am a statistician working on reliable machine learning. In particular, I try t
 * Imprecise Probabilities
     * Generalized Bayes
     * Imprecise Gaussian Processes
+    * Neighborhood Models
 * Robust Surrogates in Bayesian Optimization
 * Superset Learning/Inference
 * Weak Supervision
@@ -41,6 +42,7 @@ I am a statistician working on reliable machine learning. In particular, I try t
 * Julian Rodemann, Dominik Kreiss, Eyke Hüllermeier, Thomas Augustin (2022): [Levelwise Data Disambiguation by Cautious Superset Classification.](https://link.springer.com/chapter/10.1007/978-3-031-18843-5_18) 15th International Conference on Scalable Uncertainty Management **(SUM)**, Paris, France. Lecture Notes in Artificial Intelligence, Springer.
 
 * Julian Rodemann, Thomas Augustin (2022): [Accounting for Gaussian Process Imprecision in Bayesian Optimization.](https://link.springer.com/chapter/10.1007/978-3-030-98018-4_8) 9th International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making **(IUKM)**, Ishikawa, Japan. Lecture Notes in Artificial Intelligence, Springer.
+
 
 ## Posters
 
