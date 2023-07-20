@@ -17,6 +17,6 @@ classes: wide
 Hi there! :wave: <br>
 
 
-I am a 2nd year PhD Candidate supervised by [Thomas Augustin](https://scholar.google.de/citations?user=3N20m1kAAAAJ&hl=de) at the [Department of Statistics](https://www.statistik.uni-muenchen.de/index.html) at Ludwig-Maximilians-Universität (LMU) Munich. My [research](https://rodemann.github.io/_pages/research/) revolves around adaptive machine learing. I mainly use imprecise probability (IP) models to render such methods more reliable. 
+I am a 2nd year PhD Candidate supervised by [Thomas Augustin](https://scholar.google.de/citations?user=3N20m1kAAAAJ&hl=de) at the [Department of Statistics](https://www.statistik.uni-muenchen.de/index.html) at Ludwig-Maximilians-Universität (LMU) Munich. My [research](https://rodemann.github.io/_pages/research/) revolves around adaptive machine learing. I try to render such methods more reliable by representing the involved uncertainties. 
 
-I am also [teaching](https://rodemann.github.io/_pages/teaching/) undergraduate and graduate classes at our department. Prior to starting my PhD, I worked as a science journalist [at Süddeutsche Zeitung](https://www.sueddeutsche.de/autoren/julian-rodemann-1.5017937). 
+I am also [teaching](https://rodemann.github.io/_pages/teaching/) undergraduate and graduate classes at our department. 
