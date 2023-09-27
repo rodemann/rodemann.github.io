@@ -32,6 +32,9 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 ## Publications
 
+
+* Julian Rodemann (2023): [Pseudo-Label Selection Is a Decision Problem.](https://doi.org/10.1007/978-3-031-42608-7) 46th German Conference on Artificial Intelligence, Berlin, Germany. LNAI, Springer. 
+
 * Julian Rodemann, Jann Goschenhofer, Emilio Dorigatti, Thomas Nagler, Thomas Augustin (2023): [Approximately Bayes-Optimal Pseudo-Label Selection.](https://proceedings.mlr.press/v216/rodemann23a) 39th Conference on Uncertainty in Artificial Intelligence **(UAI)**, Pittsburgh, USA. PMLR. 
 
 * Christoph Jansen, Georg Schollmeyer, Hannah Blocher, Julian Rodemann, Thomas Augustin (2023): [Robust Statistical Comparison of Random Variables with Locally Varying Scale of Measurement.](https://proceedings.mlr.press/v216/jansen23a.html) 39th Conference on Uncertaint in Artificial Intelligence **(UAI)**, Pittsburgh, USA. PMLR. 
