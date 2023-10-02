@@ -61,7 +61,6 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 ## Talks
 
-* Julian Rodemann (2023): Pseudo Label Selection is a Decision Problem. *To be held at* 46th German Conference on Artificial Intelligence **(KI)**, Berlin, Germany.
 
 * Julian Rodemann (2023): Learning Under Weak Supervision: Insights from Decision Theory. Young Statistician's Lecture Series **(YSLS)**. International Biometric Society **(IBS)** Early Career Working Group, Germany.
 
