@@ -17,6 +17,7 @@ As PhD Candidate:
 
 * Winter Term, 2023/2024
     * Statistics for Geosciences (Lecture and Exercise)
+    * Selected Topics in Decision Theory (Seminar)	
 * Summer Term, 2023
     * Causality (Exercise)
 * Winter Term, 2022/2023
