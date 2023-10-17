@@ -25,6 +25,7 @@ I am a statistician working on reliable machine learning. In particular, I try t
 * Robust Surrogates in Bayesian Optimization
 * Superset Learning/Inference
 * Weak Supervision
+* Sampling Theory
 * ... [^1]
 
 [^1]: "If we knew what it was we were doing, it would not be called research, would it?" -- Albert Einstein  
