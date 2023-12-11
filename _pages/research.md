@@ -39,7 +39,7 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 * Julian Rodemann, Jann Goschenhofer, Emilio Dorigatti, Thomas Nagler, Thomas Augustin (2023): [Approximately Bayes-Optimal Pseudo-Label Selection.](https://proceedings.mlr.press/v216/rodemann23a) 39th **Conference on Uncertainty in Artificial Intelligence (UAI)**, Pittsburgh, USA. PMLR. 
 
-* Christoph Jansen, Georg Schollmeyer, Hannah Blocher, Julian Rodemann, Thomas Augustin (2023): [Robust Statistical Comparison of Random Variables with Locally Varying Scale of Measurement.](https://proceedings.mlr.press/v216/jansen23a.html) 39th **Conference on Uncertaint in Artificial Intelligence (UAI)**, Pittsburgh, USA. PMLR. 
+* Christoph Jansen, Georg Schollmeyer, Hannah Blocher, Julian Rodemann, Thomas Augustin (2023): [Robust Statistical Comparison of Random Variables with Locally Varying Scale of Measurement.](https://proceedings.mlr.press/v216/jansen23a.html) 39th **Conference on Uncertainty in Artificial Intelligence (UAI)**, Pittsburgh, USA. PMLR. 
 
 * Julian Rodemann, Christoph Jansen, Georg Schollmeyer, Thomas Augustin (2023): [In All Likelihood(s): Robust Selection of Pseudo-Labeled Data.](https://proceedings.mlr.press/v215/rodemann23a.html) 13th **International Symposium on Imprecise Probabilities: Theories and Applications (ISIPTA)**, Oviedo, Spain. PMLR.
 
