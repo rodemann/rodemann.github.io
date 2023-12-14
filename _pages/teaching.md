@@ -43,3 +43,14 @@ I also taught some undergraduate courses during my master's:
 * Summer Term, 2019
     * Linear Models (Tutorial)    
 
+
+---
+Potential Topics for Bachelor/Master Theses under my supervision: 
+
+* De-biased Boosting from Complex samples
+* Survey on Continual Learning (Literature research) 
+* Bayesian Optimization - a decision-theoretic perspective
+ 
+
+
+
