@@ -44,13 +44,6 @@ I also taught some undergraduate courses during my master's:
     * Linear Models (Tutorial)    
 
 
----
-Potential Topics for Bachelor/Master Theses under my supervision: 
-
-* De-biased Boosting from Complex samples
-* Survey on Continual Learning (Literature research) 
-* Bayesian Optimization - a decision-theoretic perspective
- 
 
 
 
