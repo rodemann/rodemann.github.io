@@ -23,7 +23,6 @@ I am a statistician working on reliable machine learning. In particular, I try t
     * Generalized Bayes
     * Imprecise Gaussian Processes
 * Robust Surrogates in Bayesian Optimization
-* Superset Learning/Inference
 * Weak Supervision
 * Sampling Theory
 * ... [^1]
