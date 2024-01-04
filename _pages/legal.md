@@ -16,10 +16,15 @@ Inhaltlich verantwortlich und vertretungsberechtigt:
 Julian Rodemann
 
 Büro 142
+
 Institut für Statistik
+
 Fakultät für Mathematik, Informatik und Statistik
+
 Ludwigstr. 33
+
 80539 Muenchen  
+
 mail[aet]julian-rodemann.de  
 
 # Datenschutz
