@@ -29,4 +29,8 @@ Potential Topics for Bachelor/Master Theses under my co-supervision:
 * De-biased Boosting from Complex Samples
 * Survey on Continual Learning (Literature research) 
 * Bayesian Optimization - a Decision-Theoretic Perspective
+* Lipschitz-Regularization in Deep Learning
+* Horvitz-Thompson Estimation from Bayes-optimal Data 
+
+If you are interested in one of those topics, please reach out an I will provide you with literature. 
  
