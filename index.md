@@ -24,7 +24,7 @@ My position is partly funded by the Federal Statistical Office of Germany within
 I am also [teaching](https://rodemann.github.io/_pages/teaching/) undergraduate and graduate classes at our department. 
 
 ---
-Potential Topics for Bachelor/Master Theses under my supervision: 
+Potential Topics for Bachelor/Master Theses under my co-supervision: 
 
 * De-biased Boosting from Complex Samples
 * Survey on Continual Learning (Literature research) 
