@@ -58,6 +58,8 @@ Science editor (full-time) in 2020 and freelancer (before and after), mainly cov
 
 * LMU Mentoring programm for young researches, year 2023
 
+* SIPTA Summer School Bursary 2022
+
 * B.Sc. and M.Sc. scholarships (2016-2021) granted by Evangelisches Studienwerk Villigst (talent program funded by the German Federal Ministry of Education and Research, BMBF) 
 
 
