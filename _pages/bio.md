@@ -56,7 +56,7 @@ Science editor (full-time) in 2020 and freelancer (before and after), mainly cov
 
 * Scholarship by the Association of Uncertainty in Artificial Intelligence (AUAI) to attend UAI 2023
 
-* LMU Mentoring programm for young researches, year 2023
+* LMU Mentoring programm for young researches, year 2023 and 2024
 
 * SIPTA Summer School Bursary 2022
 

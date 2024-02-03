@@ -21,7 +21,7 @@ I am a 3rd year PhD Candidate supervised by [Thomas Augustin](https://scholar.go
 
 My position is partly funded by the Federal Statistical Office of Germany within the co-operation project "Machine Learning in Official Statistics" and I am part of the [the Graduate Center of the Bavarian Research Institute for Digital Transformation (bidt)](https://en.bidt.digital/person/julian-rodemann) within the Bavarian Academy of Sciences (BAS).
 
-I am also [teaching](https://rodemann.github.io/_pages/teaching/) several undergraduate and graduate classes at our department. Besides, I am doing [academic student counselling](https://www.statistik.uni-muenchen.de/studium/beratung/index.html) for our Bachelor "Statistics and Data Science".  
+I am also [teaching](https://rodemann.github.io/_pages/teaching/) several undergraduate and graduate classes at our department. Besides, I am doing [academic student counselling](https://www.statistik.uni-muenchen.de/studium/beratung/index.html) for our Bachelor program "Statistics and Data Science".  
 
 ---
 Potential Topics for Bachelor/Master Theses under my co-supervision: 
