@@ -24,13 +24,4 @@ My position is partly funded by the Federal Statistical Office of Germany within
 I am also [teaching](https://rodemann.github.io/_pages/teaching/) several undergraduate and graduate classes at our department. Besides, I am doing [academic student counselling](https://www.statistik.uni-muenchen.de/studium/beratung/index.html) for our Bachelor program "Statistics and Data Science".  
 
 ---
-Potential Topics for Bachelor/Master Theses under my co-supervision: 
 
-* De-biased Boosting from Complex Samples
-* Survey on Continual Learning (Literature research) 
-* Bayesian Optimization - a Decision-Theoretic Perspective
-* Lipschitz-Regularization in Deep Learning
-* Horvitz-Thompson Estimation from Bayes-optimal Data 
-
-If you are interested in one of those topics, please reach out an I will provide you with literature. 
- 
