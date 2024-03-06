@@ -34,17 +34,17 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 * Malte Nalenz, Julian Rodemann, Thomas Augustin (2024): [Learning De-Biased Regression Trees and Forests from Complex Samples.](https://links.springernature.com/f/a/0p50nuqq-Z8cmwCiTRYoYA~~/AABE5gA~/RgRnftm_P0SiaHR0cHM6Ly9saW5rLnNwcmluZ2VyLmNvbS8xMC4xMDA3L3MxMDk5NC0wMjMtMDY0MzktMT91dG1fc291cmNlPXJjdF9jb25ncmF0ZW1haWx0JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW9hXzIwMjQwMTA4JnV0bV9jb250ZW50PTEwLjEwMDcvczEwOTk0LTAyMy0wNjQzOS0xVwNzcGNCCmWYv1ScZcAL6WdSJGp1bGlhbi5yb2RlbWFubkBzdGF0LnVuaS1tdWVuY2hlbi5kZVgEAAAHLQ~~) **Machine Learning**, Special Issue of ACML 2023, Springer. 
 
-* Julian Rodemann (2023): [Pseudo-Label Selection Is a Decision Problem (Short Paper).](https://doi.org/10.1007/978-3-031-42608-7) 46th **German Conference on Artificial Intelligence**, Berlin, Germany. LNAI, Springer. 
+* Julian Rodemann (2023): [Pseudo-Label Selection Is a Decision Problem (Short Paper).](https://doi.org/10.1007/978-3-031-42608-7) 46th German Conference on Artificial Intelligence **KI**, Berlin, Germany. LNAI, Springer. 
 
-* Julian Rodemann, Jann Goschenhofer, Emilio Dorigatti, Thomas Nagler, Thomas Augustin (2023): [Approximately Bayes-Optimal Pseudo-Label Selection.](https://proceedings.mlr.press/v216/rodemann23a) 39th **Conference on Uncertainty in Artificial Intelligence (UAI)**, Pittsburgh, USA. PMLR. 
+* Julian Rodemann, Jann Goschenhofer, Emilio Dorigatti, Thomas Nagler, Thomas Augustin (2023): [Approximately Bayes-Optimal Pseudo-Label Selection.](https://proceedings.mlr.press/v216/rodemann23a) 39th Conference on Uncertainty in Artificial Intelligence **UAI**, Pittsburgh, USA. PMLR. 
 
-* Christoph Jansen, Georg Schollmeyer, Hannah Blocher, Julian Rodemann, Thomas Augustin (2023): [Robust Statistical Comparison of Random Variables with Locally Varying Scale of Measurement.](https://proceedings.mlr.press/v216/jansen23a.html) 39th **Conference on Uncertainty in Artificial Intelligence (UAI)**, Pittsburgh, USA. PMLR. 
+* Christoph Jansen, Georg Schollmeyer, Hannah Blocher, Julian Rodemann, Thomas Augustin (2023): [Robust Statistical Comparison of Random Variables with Locally Varying Scale of Measurement.](https://proceedings.mlr.press/v216/jansen23a.html) 39th Conference on Uncertainty in Artificial Intelligence **UAI**, Pittsburgh, USA. PMLR. 
 
-* Julian Rodemann, Christoph Jansen, Georg Schollmeyer, Thomas Augustin (2023): [In All Likelihood(s): Robust Selection of Pseudo-Labeled Data.](https://proceedings.mlr.press/v215/rodemann23a.html) 13th **International Symposium on Imprecise Probabilities: Theories and Applications (ISIPTA)**, Oviedo, Spain. PMLR.
+* Julian Rodemann, Christoph Jansen, Georg Schollmeyer, Thomas Augustin (2023): [In All Likelihood(s): Robust Selection of Pseudo-Labeled Data.](https://proceedings.mlr.press/v215/rodemann23a.html) 13th International Symposium on Imprecise Probabilities: Theories and Applications **ISIPTA**, Oviedo, Spain. PMLR.
 
-* Julian Rodemann, Dominik Kreiss, Eyke Hüllermeier, Thomas Augustin (2022): [Levelwise Data Disambiguation by Cautious Superset Classification.](https://link.springer.com/chapter/10.1007/978-3-031-18843-5_18) 15th **International Conference on Scalable Uncertainty Management (SUM)**, Paris, France. LNAI, Springer.
+* Julian Rodemann, Dominik Kreiss, Eyke Hüllermeier, Thomas Augustin (2022): [Levelwise Data Disambiguation by Cautious Superset Classification.](https://link.springer.com/chapter/10.1007/978-3-031-18843-5_18) 15th International Conference on Scalable Uncertainty Management **SUM**, Paris, France. LNAI, Springer.
 
-* Julian Rodemann, Thomas Augustin (2022): [Accounting for Gaussian Process Imprecision in Bayesian Optimization.](https://link.springer.com/chapter/10.1007/978-3-030-98018-4_8) [^2] 9th International Symposium on **Integrated Uncertainty in Knowledge Modelling and Decision Making (IUKM)**, Ishikawa, Japan. LNAI, Springer.
+* Julian Rodemann, Thomas Augustin (2022): [Accounting for Gaussian Process Imprecision in Bayesian Optimization.](https://link.springer.com/chapter/10.1007/978-3-030-98018-4_8) [^2] 9th International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making **IUKM**, Ishikawa, Japan. LNAI, Springer.
 
 [^2]: This publication is based on parts of my master thesis "Robust stochastic derivative-free optimization".
 
