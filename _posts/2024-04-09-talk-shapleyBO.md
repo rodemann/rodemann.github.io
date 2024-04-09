@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Talk on ShapleyBO at Integreat, April 30th"
+title:  "Talk on ShapleyBO at Integreat, April 30th, 14.15 CET"
 ---
 
 
