@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "On my way to ICLR 2024"
+title:  "On my way to ICLR 2024 :train2: "
 ---
 
 

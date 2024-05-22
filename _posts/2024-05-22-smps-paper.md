@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Paper Accepted at SMPS :champagne:"
+title:  "Paper Accepted at SMPS :tada:"
 ---
 
 

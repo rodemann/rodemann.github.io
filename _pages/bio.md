@@ -1,5 +1,5 @@
 ---
-title: "Bio :clipboard: <br> <br> <br> <br> <br> "
+title: "Bio <br> <br> <br> <br> <br> "
 permalink: _pages/bio/
 header:
   overlay_image: /assets/images/alpspitze-6.JPG
