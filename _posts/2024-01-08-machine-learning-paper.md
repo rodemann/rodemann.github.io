@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Paper Published in *Machine Learning* :champagne:"
+title:  "Paper Accepted in *Machine Learning* :champagne:"
 ---
 
 

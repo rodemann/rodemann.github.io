@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Tiny Paper Accepted at ICLR Track :champagne:"
+title:  "Tiny Paper Accepted at ICLR :champagne:"
 ---
 
 
