@@ -32,7 +32,7 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 ## Publications
 
-* Julian Rodemann[^\*], Hannah Blocher[^\*] (2024): [Partial Rankings of Optimizers.](https://arxiv.org/abs/2402.16565) International Conference on Learning Representations **ICLR** 2024, Tiny Papers Track, Vienna, Austria. 
+* Julian Rodemann[^2], Hannah Blocher[^2] (2024): [Partial Rankings of Optimizers.](https://arxiv.org/abs/2402.16565) International Conference on Learning Representations **ICLR** 2024, Tiny Papers Track, Vienna, Austria. 
 
 * Malte Nalenz, Julian Rodemann, Thomas Augustin (2024): [Learning De-Biased Regression Trees and Forests from Complex Samples.](https://links.springernature.com/f/a/0p50nuqq-Z8cmwCiTRYoYA~~/AABE5gA~/RgRnftm_P0SiaHR0cHM6Ly9saW5rLnNwcmluZ2VyLmNvbS8xMC4xMDA3L3MxMDk5NC0wMjMtMDY0MzktMT91dG1fc291cmNlPXJjdF9jb25ncmF0ZW1haWx0JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW9hXzIwMjQwMTA4JnV0bV9jb250ZW50PTEwLjEwMDcvczEwOTk0LTAyMy0wNjQzOS0xVwNzcGNCCmWYv1ScZcAL6WdSJGp1bGlhbi5yb2RlbWFubkBzdGF0LnVuaS1tdWVuY2hlbi5kZVgEAAAHLQ~~) **Machine Learning**, Springer. 
 
@@ -46,11 +46,13 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 * Julian Rodemann, Dominik Kreiss, Eyke Hüllermeier, Thomas Augustin (2022): [Levelwise Data Disambiguation by Cautious Superset Classification.](https://link.springer.com/chapter/10.1007/978-3-031-18843-5_18) 15th International Conference on Scalable Uncertainty Management **SUM**, Paris, France. LNAI, Springer.
 
-* Julian Rodemann, Thomas Augustin (2022): [Accounting for Gaussian Process Imprecision in Bayesian Optimization.](https://link.springer.com/chapter/10.1007/978-3-030-98018-4_8) [^2] 9th International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making **IUKM**, Ishikawa, Japan. LNAI, Springer.
+* Julian Rodemann, Thomas Augustin (2022): [Accounting for Gaussian Process Imprecision in Bayesian Optimization.](https://link.springer.com/chapter/10.1007/978-3-030-98018-4_8) [^3] 9th International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making **IUKM**, Ishikawa, Japan. LNAI, Springer.
 
-[^2]: This publication is based on parts of my master thesis "Robust stochastic derivative-free optimization".
 
-[^\*]: Equal Contribution.
+[^2]: Equal Contribution.
+
+[^3]: This publication is based on parts of my master thesis "Robust stochastic derivative-free optimization".
+
 
 ## Posters
 
