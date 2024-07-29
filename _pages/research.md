@@ -34,6 +34,8 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 * Julian Rodemann, Thomas Augustin (2024): [Imprecise Bayesian Optimization.](https://www.sciencedirect.com/science/article/pii/S0950705124008207) **Knowledge-Based Systems** 2024, Elsevier. 
 
+* Stefan Dietrich, Julian Rodemann, Christoph Jansen (2024): [Semi-Supervised Learning guided by the Generalized Bayes Rule under Soft Revision.](https://arxiv.org/abs/2405.15294) 11th International Conference on Soft Methods in Probability and Statistics 2024 **SMPS**, forthcoming. 
+
 * Julian Rodemann (2024): [Towards Bayesian Data Selection](https://arxiv.org/abs/2406.12560) 5th Workshop on Data-Centric Machine Learning Research **DMLR** at **ICML** 2024. 
 
 * Julian Rodemann[^2], Hannah Blocher[^2] (2024): [Partial Rankings of Optimizers.](https://arxiv.org/abs/2402.16565) International Conference on Learning Representations **ICLR** 2024, Tiny Papers Track, Vienna, Austria. 
