@@ -13,8 +13,13 @@ date: 2023-05-10T03:02:20+00:00
 
 
 
-As PhD Candidate:
+Teaching Experience as PhD Candidate:
 
+* Winter Term, 2024/2025
+    * Statistics for Geosciences (Lecture and Exercise)
+    * Debating statistical inference schools: Frequentism, Bayesianism, Fiducialism, and beyond (Seminar)
+* Summer Term, 2024
+    * Causality (Exercise)
 * Winter Term, 2023/2024
     * Statistics for Geosciences (Lecture and Exercise)
     * Selected Topics in Decision Theory (Seminar)
