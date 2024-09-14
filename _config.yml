@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Julian Rodemann"
   avatar           : "/assets/images/bild-julian.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate, LMU Munich "
-  location         : "Munich, Germany, :earth_africa: "
+  bio              : "PhD Candidate, LMU Munich (currently at Harvard University)"
+  location         : "Cambridge, MA, USA, :earth_africa: "
   email            : #"mail@julian-rodemann.de"
   links:
-    - label: "mail@julian-rodemann.de"
+    - label: "jrodemann@fas.harvard.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mail@julian-rodemann.de"
+      url: "mailto:jrodemann@fas.harvard.edu"
     - label: "University"
       icon: "fas fa-university"
       url: "https://www.foundstat.statistik.uni-muenchen.de/personen/mitglieder/rodemann/index.html"
