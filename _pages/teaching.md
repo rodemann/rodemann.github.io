@@ -59,7 +59,7 @@ Potential Topics for Bachelor/Master Theses under my co-supervision:
 * Lipschitz-Regularization in Deep Learning
 * Horvitz-Thompson Estimation from Bayes-optimal Data 
 
-If you are interested in one of those topics, please reach out an I will provide you with literature. 
+If you are interested in one of those topics, please reach out and I will provide you with literature. 
  
 
 
