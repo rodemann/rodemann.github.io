@@ -23,7 +23,7 @@ My [research](https://rodemann.github.io/_pages/research/) revolves around optim
 
 I enjoy teaching a lot and [teach several (under)graduate classes](https://rodemann.github.io/_pages/teaching/) at our department and co-supervise bachelor and master theses. Potential thesis topics under my supervision can be found [here](https://rodemann.github.io/_pages/teaching/). Besides, I do [academic student counselling](https://www.statistik.uni-muenchen.de/studium/beratung/index.html) for our Bachelor program "Statistics and Data Science".  
 
-I am part of the [the Graduate Center of the Bavarian Research Institute for Digital Transformation (bidt)](https://en.bidt.digital/person/julian-rodemann) within the Bavarian Academy of Sciences (BAS). The graduate center is a great place to learn about digitalization beyond my own research on machine learning and statistics/data science.
+I am part of the [the Graduate Center of the Bavarian Research Institute for Digital Transformation (bidt)](https://en.bidt.digital/person/julian-rodemann) within the Bavarian Academy of Sciences (BAS). The graduate center is a great place to learn about the many aspects of a digital world that lie beyond my own research on machine learning and statistics/data science.
 
 ---
 
