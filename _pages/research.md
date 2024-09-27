@@ -32,6 +32,10 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 ## Publications
 
+* Julian Rodemann, Christoph Jansen, Georg Schollmeyer (2024): [Reciprocal Learning](https://arxiv.org/abs/2408.06257). Neural Information Processing Systems **NeurIPS** 2024, forthcoming.
+
+* Christoph Jansen[^2], Georg Schollmeyer[^2], Julian Rodemann[^2], Hannah Blocher[^2], Thomas Augustin (2024): [Statistical Multicriteria Benchmarking via the GSD-Front](https://arxiv.org/abs/2406.03924). Neural Information Processing Systems **NeurIPS** 2024, forthcoming.
+
 * Esteban Garces Arias, Julian Rodemann, Meimingwei Li, Christian Heumann, Matthias Aßenmacher (2024): Adaptive Contrastive Search: Uncertainty-Guided Decoding for Open-Ended Text Generation. Conference on Empirical Methods in Natural Language Processing **EMNLP** Findings, Miami, USA, forthcoming.
 
 * Julian Rodemann, Thomas Augustin (2024): [Imprecise Bayesian Optimization.](https://www.sciencedirect.com/science/article/pii/S0950705124008207) **Knowledge-Based Systems** 2024, Elsevier. 
