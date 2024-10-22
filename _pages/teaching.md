@@ -37,7 +37,7 @@ Teaching Experience as PhD Candidate:
     * Economic and Social Statistics (Lecture and Exercise)
     * Probability Theory and Inference I (Exercise)
 
-Besides, I (co-)supervise BSc and MSc theses in statistics (2 completed).
+Besides, I (co-)supervise BSc and MSc theses in statistics (5 completed).
 
 I also taught some undergraduate courses during my master's: 
 

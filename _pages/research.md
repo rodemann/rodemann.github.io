@@ -66,29 +66,25 @@ I am a statistician working on reliable machine learning. In particular, I try t
 [^3]: This publication is based on parts of my master thesis "Robust stochastic derivative-free optimization".
 
 
-## Posters
+## Some Talks and Posters
 
-* Julian Rodemann, Thomas Augustin, Rianne de Heide (2023): Interpreting Generalized Bayesian Inference by Generalized Bayesian Inference. *Accepted for presentation at* **ISIPTA** 2023
+* Julian Rodemann, Thomas Augustin, Rianne de Heide (2023): Interpreting Generalized Bayesian Inference by Generalized Bayesian Inference. **ISIPTA** 2023
 
-* Alexander Marquardt, Julian Rodemann, Thomas Augustin (2023): An Empirical Study of Prior-Data Conflicts in Bayesian Neural Networks. *Accepted for presentation at* **ISIPTA** 2023.
+* Alexander Marquardt, Julian Rodemann, Thomas Augustin (2023): An Empirical Study of Prior-Data Conflicts in Bayesian Neural Networks. **ISIPTA** 2023.
 
 * Julian Rodemann, Jann Goschenhofer, Emilio Dorigatti, Thomas Nagler, Thomas Augustin (2023): Approximately Bayes-Optimal Pseudo Label Selection. *Poster accepted for the* Fifth Symposium on Advances in Approximate Bayesian Inference **AABI**, co-located with **ICML** 2023.
-
-* Julian Rodemann, Sebastian Fischer, Malte Nalenz, Lennart Schneider, Thomas Augustin (2022): Not All Data Are Created Equal - Lessons from Sampling Theory for Adaptive Machine Learning. *Poster presented at* **ICSDS** 2022 hosted by the Institute of Mathematical Statistics **(IMS)**.
-    
-+ Julian Rodemann, Thomas Augustin (2021): Accounting for Imprecision of Model Specification in Bayesian Optimization. *Poster presented at* **ISIPTA**, Granada, Spain. 
-
-
-## Talks
-
 
 * Julian Rodemann (2023): Learning Under Weak Supervision: Insights from Decision Theory. Young Statistician's Lecture Series **(YSLS)**. International Biometric Society **(IBS)** Early Career Working Group, Germany.
 
 * Malte Nalenz, Julian Rodemann, Thomas Augustin (2022): De-biased Regression Trees for Complex Data. Statistical Week by the German Statistical Society **(DStatG)** in Münster, Germany. 
 
+* Julian Rodemann, Sebastian Fischer, Malte Nalenz, Lennart Schneider, Thomas Augustin (2022): Not All Data Are Created Equal - Lessons from Sampling Theory for Adaptive Machine Learning. *Poster presented at* **ICSDS** 2022 hosted by the Institute of Mathematical Statistics **(IMS)**.
+    
 * Julian Rodemann (2022): Prior-RObust Bayesian Optimization (PROBO). **DAGStat** Joint Statistical Meeting in Hamburg, Germany.
 
 * Julian Rodemann, Thomas Augustin (2022): A Deep Dive Into BO Sensitivity and PROBO. Young Statistician's Lecture Series **(YSLS)**. **IBS** Early Career Working Group, Germany.
+
+* Julian Rodemann, Thomas Augustin (2021): Accounting for Imprecision of Model Specification in Bayesian Optimization. *Poster presented at* **ISIPTA**, Granada, Spain. 
 
 * Julian Rodemann (2017): Clustering lifecycles. Villigst Machine Learning Undergraduate Workshop hosted by Max-Planck-Institute for Intelligent Systems **(MPI-IS)** in Tübingen, Germany.
 
