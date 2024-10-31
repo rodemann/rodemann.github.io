@@ -110,9 +110,9 @@ author:
   location         : "Cambridge, MA, USA, :earth_africa: "
   email            : #"mail@julian-rodemann.de"
   links:
-    - label: "jrodemann@fas.harvard.edu"
+    - label: "mail[at]julian-rodemann.de"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jrodemann@fas.harvard.edu"
+      url: "mailto:mail@julian-rodemann.de"
     - label: "University"
       icon: "fas fa-university"
       url: "https://www.foundstat.statistik.uni-muenchen.de/personen/mitglieder/rodemann/index.html"
