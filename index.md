@@ -4,7 +4,7 @@ title: "Welcome to my personal website <br> <br> "
 author_profile: true
 header:
   overlay_filter: 0.2
-  overlay_image: /assets/images/alpspitze-5.JPG
+  overlay_image: /assets/images/alpspitze-7.JPG
   caption: "Photo credit: Hendrik Cech"
 classes: wide
 ---
