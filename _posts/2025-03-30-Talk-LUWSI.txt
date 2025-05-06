@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Talk at LUWSI in Tübingen"
+title:  "Workshop at Tübingen AI Center (LUWSI)"
 ---
 
 
