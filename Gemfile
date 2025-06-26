@@ -1,4 +1,4 @@
 gem 'jemoji'
 source "https://rubygems.org"
-gemspec
+# gemspec
 gem 'jekyll-target-blank'
