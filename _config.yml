@@ -253,6 +253,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
   - jemoji
+  - jekyll-target-blank
 
 
 # mimic GitHub Pages with --safe
