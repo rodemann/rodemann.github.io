@@ -229,6 +229,12 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  parse_block_html: true
+  parse_span_html: true
+  link_attributes:
+    target: _blank
+    rel: noopener noreferrer
+
 
 
 # Sass/SCSS
@@ -321,7 +327,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
 
 
 
