@@ -25,5 +25,4 @@ I enjoy teaching a lot and [teach several (under)graduate classes](https://rodem
 
 I am part of the [the Graduate Center of the Bavarian Research Institute for Digital Transformation (bidt)](https://en.bidt.digital/person/julian-rodemann){:target="_blank"} within the Bavarian Academy of Sciences (BAS). The graduate center is a great place to learn about the many facets of the digital world that are beyond my own research. Moreover, I am supported by the mentoring program of the Faculty of Mathematics, Computer Science and Statistics at LMU Munich. My mentor is [Professor Konstantinos Panagiotou](https://www.mathematik.uni-muenchen.de/~kpanagio/){:target="_blank"}. Parts of my research are further funded by the Federal Statistical Office of Germany within the cooperation project “Machine Learning in Official Statistics”.
 
----
 
