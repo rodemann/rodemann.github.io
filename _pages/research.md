@@ -32,6 +32,11 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 ## Publications
 
+* Julian Rodemann, Federico Croppi, Philipp Arens, Yusuf Sale, Julia Herbinger, Eyke Hüllermeier, Bernd Bis-
+chl, Thomas Augustin, Conor J. Walsh, Giuseppe Casalicchio: [Explaining Bayesian Optimization by Shapley
+Values Facilitates Human-AI Collaboration](https://arxiv.org/abs/2403.04629){:target="_blank"}, European Conference on Machine Learning and Principles and
+Practice of Knowledge Discovery in Databases ECML-PKDD (forthcoming), Porto, Portugal, 2025
+
 * Julian Rodemann, Christoph Jansen, Georg Schollmeyer (2024): [Reciprocal Learning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0337b41b4e8b2eb5d7ab161ffd42cf3b-Abstract-Conference.html){:target="_blank"}. Neural Information Processing Systems **NeurIPS** 2024.
 
 * Christoph Jansen[^2], Georg Schollmeyer[^2], Julian Rodemann[^2], Hannah Blocher[^2], Thomas Augustin (2024): [Statistical Multicriteria Benchmarking via the GSD-Front](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b1f140eeee243db24e9e006481b91cf1-Abstract-Conference.html){:target="_blank"}. Neural Information Processing Systems **NeurIPS (Spotlight)** 2024.
