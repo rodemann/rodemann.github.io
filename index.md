@@ -17,7 +17,7 @@ classes: wide
 Hi there! :wave: <br>
 
 
-I am a final year PhD Candidate supervised by [Professor Thomas Augustin](https://scholar.google.de/citations?user=3N20m1kAAAAJ&hl=de) at the [Department of Statistics](https://www.statistik.uni-muenchen.de/index.html) at Ludwig-Maximilians-Universität (LMU) Munich. 
+I am a final year PhD Candidate supervised by [Professor Thomas Augustin](https://scholar.google.de/citations?user=3N20m1kAAAAJ&hl=de){:target="_blank"} at the [Department of Statistics](https://www.statistik.uni-muenchen.de/index.html) at Ludwig-Maximilians-Universität (LMU) Munich. 
 
 My [research](https://rodemann.github.io/_pages/research/) revolves around optimization, online learning, and decision theory. I try to render such methods more reliable by representing the involved uncertainties, heavily relying on [imprecise probabilities](https://sipta.org/). I am also interested in interpretable machine learning and anything Bayesian. My research has been published in Q1 journals (Machine Learning, Knowledge-Based Systems) and A*/A conferences (2x NeurIPS, ICLR, 2x UAI, EMNLP, ECML-PKDD).
 
