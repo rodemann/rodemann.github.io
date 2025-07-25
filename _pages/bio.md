@@ -50,6 +50,8 @@ Science editor (full-time) in 2020 and freelancer (before and after), mainly cov
 
 ## Fellowships and Scholarships
 
+* Full scholarship by German Academic Exchange Service (DAAD) for a research stay at Harvard University in fall 2024
+
 * PhD fellowship (4 years) at the graduate center by the Bavarian Research Institute for Digital Transformation (bidt) within the Bavarian Academy of Sciences (BAS) 
 
 * Artificial Intelligence Journal fellowship by Elsevier to attend ISIPTA 2023
@@ -60,7 +62,7 @@ Science editor (full-time) in 2020 and freelancer (before and after), mainly cov
 
 * SIPTA Summer School Bursary 2022
 
-* B.Sc. and M.Sc. scholarships (2016-2021) granted by Evangelisches Studienwerk Villigst (talent program funded by the German Federal Ministry of Education and Research, BMBF) 
+* Full (100%) B.Sc. and M.Sc. scholarships (2016-2021) granted by Gifted Support Organization "Villigst" (funded by the German Federal Ministry of Education and Research, BMBF) 
 
 
 
