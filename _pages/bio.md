@@ -66,13 +66,19 @@ Science editor (full-time) in 2020 and freelancer (before and after), mainly cov
 
 ## Awards and Nominations
 
+* IJAR Young Researcher Award 2025 (awarded bi-annually to recognize excellence in research on imprecise probabilities at an early stage of the recipient's scientific career)
+
+* NeurIPS Spotlight Paper (Top 2% of all submitted papers) 2024
+
 * “Young Statistician” award by Gesellschaft für Klassifikation (GfKl) and International Biometric Society (IBS) Early Career Working Group, German region (IBS-DR), 2022
 
-* Best poster award (bronze) at the 12th International Symposium on Imprecise Probability: Theories and Applications (ISIPTA) in Granada, Spain, 2021  
+* Best poster award at the 12th International Symposium on Imprecise Probability: Theories and Applications (ISIPTA) in Granada, Spain, 2021  
 
 * Shortlist of Georg-von-Holtzbrinck-price for science journalism (category “young talents” under 30), 2021
 
 * Prize for best master thesis in 2021 at the Department of Statistics, LMU Munich, 2021 
+
+* Two prices for outstanding Abitur (high school graduation) 
 
 
 
