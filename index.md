@@ -17,9 +17,9 @@ classes: wide
 Hi there! :wave: <br>
 
 
-I am a final year PhD Candidate supervised by [Professor Thomas Augustin](https://scholar.google.de/citations?user=3N20m1kAAAAJ&hl=de){:target="_blank"} at the [Department of Statistics](https://www.statistik.uni-muenchen.de/index.html){:target="_blank"} at Ludwig-Maximilians-Universität (LMU) Munich. 
+I research reliable machine learning at the Rational Intelligence Lab ([ri-lab.org](ri-lab.org)) within the [CISPA Helmholtz Center for Information Security](https://cispa.de/en) in Saabrücken, Germany. I am also affiliated with [Professor Thomas Augustin](https://scholar.google.de/citations?user=3N20m1kAAAAJ&hl=de){:target="_blank"} at the [Department of Statistics](https://www.statistik.uni-muenchen.de/index.html){:target="_blank"} at Ludwig-Maximilians-Universität (LMU) Munich. 
 
-My [research](https://rodemann.github.io/_pages/research/) revolves around optimization, online learning, and decision theory. I try to render such methods more reliable by representing the involved uncertainties, heavily relying on [imprecise probabilities](https://sipta.org/){:target="_blank"}. I am also interested in interpretable machine learning and anything Bayesian. My research has been published in Q1 journals (Machine Learning, Knowledge-Based Systems) and A*/A conferences (2x NeurIPS, ICLR, 2x UAI, EMNLP, ECML-PKDD).
+My [research](https://rodemann.github.io/_pages/research/) revolves around optimization, online learning, and decision theory within machine learning. I try to render such methods more reliable by representing the involved uncertainties, heavily relying on [imprecise probabilities](https://sipta.org/){:target="_blank"}. I am also interested in interpretable machine learning and anything Bayesian. My research has been published in Q1 journals (Machine Learning, Knowledge-Based Systems) and A*/A conferences (2x NeurIPS, ICLR, 2x UAI, EMNLP, ECML-PKDD).
 
 I enjoy teaching a lot and [teach several (under)graduate classes](https://rodemann.github.io/_pages/teaching/) at our department. I also (co-)supervise bachelor and master theses. Potential thesis topics under my supervision can be found [here](https://rodemann.github.io/_pages/teaching/). 
 
