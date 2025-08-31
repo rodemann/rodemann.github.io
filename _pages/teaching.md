@@ -16,37 +16,43 @@ date: 2023-05-10T03:02:20+00:00
 Teaching Experience as PhD Candidate:
 
 * Winter Term, 2024/2025
-    * Statistics for Geosciences (Lecture and Exercise)
+    * Statistics for Geosciences (Lecture, 2h/week)
+    * Statistics for Geosciences (Exercise, 2h/week)
     * Debating statistical inference schools: Frequentism, Bayesianism, Fiducialism, and beyond (Seminar)
 * Summer Term, 2024
-    * Causality (Exercise)
+    * Causality (Exercise, 1h/week)
 * Winter Term, 2023/2024
-    * Statistics for Geosciences (Lecture and Exercise)
+    * Statistics for Geosciences (Lecture, 2h/week)
+    * Statistics for Geosciences (Exercise, 2h/week)
     * Selected Topics in Decision Theory (Seminar)
     * Statistical Inference (3 lectures as substitute, ~170 students)	
 * Summer Term, 2023
-    * Causality (Exercise)
+    * Causality (Exercise, 1h/week)
 * Winter Term, 2022/2023
-    * Statistics for Geosciences (Lecture and Exercise)
-    * Economic and Social Statistics (Lecture and Exercise)
+    * Statistics for Geosciences (Lecture, 2h/week)
+    * Statistics for Geosciences (Exercise, 2h/week)
+    * Economic and Social Statistics (Lecture, 2h/week, shared)
+    * Economic and Social Statistics (Exercise, 2h/week, shared)	
 * Summer Termin, 2022
-    * Basic Probability Theory (Exercise)
-    * Statistics as Minor IV (Lecture and Exercie)
+    * Basic Probability Theory (Exercise, 2h/week)
+    * Statistics as Minor IV (Lecture, 3h/week, shared)
+    * Statistics as Minor IV (Exercise, 2h/week, shared)
 * Winter Term, 2021/2022
-    * Statistics for Geosciences (Exercise)
-    * Economic and Social Statistics (Lecture and Exercise)
-    * Probability Theory and Inference I (Exercise)
+    * Statistics for Geosciences (Exercise, 2h/week)
+    * Economic and Social Statistics (Lecture, 2h/week, shared)
+    * Economic and Social Statistics (Exercise, 2h/week, shared)
+    * Probability Theory and Inference I (Exercise, 2h/week)
 
 Besides, I (co-)supervise BSc and MSc theses in statistics (5 completed).
 
 I also taught some undergraduate courses during my master's: 
 
 * Summer Term, 2021
-    * Introduction to Probability Calculus and Inferential Statistics (Tutorial)
+    * Introduction to Probability Calculus and Inferential Statistics (Tutorial, 2h/week)
 * Winter Term, 2019/20
-    * Generalized Regression Models (Tutorial)
+    * Generalized Regression Models (Tutorial, 2h/week)
 * Summer Term, 2019
-    * Linear Models (Tutorial)    
+    * Linear Models (Tutorial, 2h/week)    
 
 
 ---
