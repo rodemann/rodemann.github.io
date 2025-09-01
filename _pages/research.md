@@ -34,10 +34,14 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 * Yuanhao Ding, Esteban Garces Arias, Meimingwei Li, Julian Rodemann, Matthias Aßenmacher, Danlu Chen, Gaojuan Fan, Christian Heumann, Chongsheng Zhang: GUARD: Glocal Uncertainty-Aware Robust Decoding for Effective and Efficient Open-Ended Text Generation. **EMNLP Findings** 2025
 
+* Esteban Garces Arias, Hannah Blocher, Julian Rodemann, Matthias Aßenmacher, Christoph Jansen:Statistical Multicriteria Evaluation of LLM-Generated Text. **INLG** (17th International Natural Language Generation Conference) 2025
+
 * Julian Rodemann, Federico Croppi, Philipp Arens, Yusuf Sale, Julia Herbinger, Eyke Hüllermeier, Bernd Bis-
 chl, Thomas Augustin, Conor J. Walsh, Giuseppe Casalicchio: [Explaining Bayesian Optimization by Shapley
 Values Facilitates Human-AI Collaboration](https://arxiv.org/abs/2403.04629){:target="_blank"}, European Conference on Machine Learning and Principles and
 Practice of Knowledge Discovery in Databases **ECML-PKDD** (forthcoming), Porto, Portugal, 2025
+
+* Esteban Garces Arias, Hannah Blocher, Julian Rodemann, Meimingwei Li, Christian Heumann, Matthias Aßenmacher: Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework. ACL Workshop on Generation, Evaluation & Metrics (GEM) Workshop, co-located with ACL 2025
 
 * Julian Rodemann, Christoph Jansen, Georg Schollmeyer (2024): [Reciprocal Learning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0337b41b4e8b2eb5d7ab161ffd42cf3b-Abstract-Conference.html){:target="_blank"}. Neural Information Processing Systems **NeurIPS** 2024.
 
