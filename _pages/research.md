@@ -32,6 +32,8 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 ## Publications
 
+* Yuanhao Ding, Esteban Garces Arias, Meimingwei Li, Julian Rodemann, Matthias Aßenmacher, Danlu Chen, Gaojuan Fan, Christian Heumann, Chongsheng Zhang: GUARD: Glocal Uncertainty-Aware Robust Decoding for Effective and Efficient Open-Ended Text Generation. **EMNLP Findings** 2025
+
 * Julian Rodemann, Federico Croppi, Philipp Arens, Yusuf Sale, Julia Herbinger, Eyke Hüllermeier, Bernd Bis-
 chl, Thomas Augustin, Conor J. Walsh, Giuseppe Casalicchio: [Explaining Bayesian Optimization by Shapley
 Values Facilitates Human-AI Collaboration](https://arxiv.org/abs/2403.04629){:target="_blank"}, European Conference on Machine Learning and Principles and
