@@ -10,7 +10,12 @@ date: 2023-05-10T03:02:20+00:00
 
 
 > "Science is not a collection of facts, but a constant struggle with [...] nature."
-> -- Judea Pearl
+> -- attributed to Judea Pearl
+
+> "[...] and nature’s choice is usually entirely unknown to the statistician."
+> -- Abraham Wald (1949): *Statistical decision functions.* Annals of Mathematical Statistics, 20:165–205. (Page 173.)
+
+
 
 Thanks for your interest in my research. 
 
