@@ -13,7 +13,7 @@ date: 2023-05-10T03:02:20+00:00
 > -- attributed to Judea Pearl
 
 > "[...] and nature’s choice is usually entirely unknown to the statistician."
-> -- Abraham Wald (1949): *Statistical decision functions.* Annals of Mathematical Statistics, 20:165–205. (Page 173.)
+> -- Abraham Wald (1949): *Statistical decision functions.* Annals of Mathematical Statistics, 20:165–205. Page 173.
 
 
 
