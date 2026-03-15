@@ -13,9 +13,13 @@ date: 2023-05-10T03:02:20+00:00
 ## Education
 
 
-__October 2021 - present__<br/>
+__2025 - present__<br/>
+CISPA Helmholtz Center, Saarbrücken, Germany<br/>
+Post-Doc in Machine Learning and Statistics
+
+__2021 - 2025__<br/>
 LMU Munich, Germany<br/>
-PhD in Statistics
+PhD in Statistics (summa cum laude)
 
 __2018 - 2021__<br/>
 LMU Munich, Germany<br/>

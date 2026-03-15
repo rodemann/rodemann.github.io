@@ -4,11 +4,11 @@ title:  "IJAR Award :2nd_place_medal:"
 ---
 
 
-Honored to receive the IJAR Young Researcher Award (:2nd_place_medal:)
+Honored to receive the IJAR Young Researcher Award (Silver) :2nd_place_medal: 
 
 The award is given to researchers who demonstrate excellence at an early stage of their scientific careers, especially in the field of imprecise probabilities (IP). The prize is generously sponsored by the International Journal of Approximate Reasoning (IJAR). 
 
-I received the award (2nd prize) during last week's International Symposion on Imprecise Probabilities: Theories and Applications (ISIPTA): [https://isipta25.sipta.org/awards](https://isipta25.sipta.org/awards)
+I received the award (silver :2nd_place_medal:) during last week's International Symposion on Imprecise Probabilities: Theories and Applications (ISIPTA): [https://isipta25.sipta.org/awards](https://isipta25.sipta.org/awards)
 
 The symposium was a great and inspiring experience. I learned so much! Long poster sessions allowed for in-depth discussion of research in a supportive, open-minded atmosphere :heart: A huge thank you goes to the organizers :pray: 
 
