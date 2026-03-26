@@ -17,7 +17,7 @@ classes: wide
 Hi there! :wave: <br>
 
 
-I am a post-doctoral researcher in statistical learning at the Rational Intelligence Lab ([ri-lab.org](https://ri-lab.org/)) within the [CISPA Helmholtz Center for Information Security](https://cispa.de/en) in Saabrücken, Germany. I am also affiliated the [Department of Statistics](https://www.statistik.uni-muenchen.de/index.html){:target="_blank"} at Ludwig-Maximilians-Universität (LMU) Munich, where I obtained my PhD in statistics in 2025.
+I am a post-doctoral researcher in statistical learning at the Rational Intelligence Lab ([ri-lab.org](https://ri-lab.org/)) within the [CISPA Helmholtz Center for Information Security](https://cispa.de/en) in Saabrücken, Germany. I am also affiliated the [Department of Statistics](https://www.statistik.uni-muenchen.de/index.html){:target="_blank"} at Ludwig-Maximilians-Universität (LMU) Munich, where I obtained my PhD in statistics under the advisorship of Thomas Augustin.
 
 My [research](https://rodemann.github.io/_pages/research/) revolves around optimization, online learning, and decision theory within machine learning. I try to render such methods more reliable by representing the involved uncertainties, heavily relying on [imprecise probabilities](https://sipta.org/){:target="_blank"}. I am also interested in interpretable machine learning and anything Bayesian. My first-authored research has been published in Q1 journals like Knowledge-Based Systems and A*/A conferences like NeurIPS, ICLR, UAI, or ECML-PKDD.
 
