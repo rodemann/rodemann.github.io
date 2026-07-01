@@ -13,32 +13,20 @@ date: 2023-05-10T03:02:20+00:00
 ## Education
 
 
-__2025 - present__<br/>
-CISPA Helmholtz Center, Saarbrücken, Germany<br/>
-Post-Doc in Machine Learning and Statistics
-
-__2021 - 2025__<br/>
+__2025__<br/>
 LMU Munich, Germany<br/>
 PhD in Statistics (summa cum laude)
 
-__2018 - 2021__<br/>
+__2021__<br/>
 LMU Munich, Germany<br/>
 MSc in Statistics
 
-__2018 - present__<br/>
-FU Hagen, Germany<br/>
-BSc in Mathematics 
-
-__2014 - 2018__<br/>
-University of Cologne, Germany<br/>
-BSc in Economics (Minor: Statistics)
-
-__2014 - 2018__<br/>
-Cologne School of Journalism, Germany<br/>
-Apprenticeship as Journalist
-
 
 ## Professional Experience
+
+__2025 - present__<br/>
+CISPA Helmholtz Center, Saarbrücken, Germany<br/>
+Post-Doc in Machine Learning and Statistics
 
 __October 2021 - present__<br/>
 Working Group Methodological Foundations, Department of Statistics, LMU Munich, Germany<br/>
