@@ -34,19 +34,32 @@ I am a statistician working on reliable machine learning. In particular, I try t
 
 [^1]: "If we knew what it was we were doing, it would not be called research, would it?" -- Albert Einstein  
 
-
 ## Publications
 
-* Yuanhao Ding, Esteban Garces Arias, Meimingwei Li, Julian Rodemann, Matthias Aßenmacher, Danlu Chen, Gaojuan Fan, Christian Heumann, Chongsheng Zhang: GUARD: Glocal Uncertainty-Aware Robust Decoding for Effective and Efficient Open-Ended Text Generation. **EMNLP Findings** 2025
+* Kiet Q. H. Vo, Abbavaram Gowtham Reddy, Julian Rodemann, Siu Lun Chau, Krikamol Muandet: [Off-Policy Evaluation with Strategic Agents via Local Disclosure](https://arxiv.org/abs/2606.07308){:target="_blank"}. **ICML** 2026
 
-* Esteban Garces Arias, Hannah Blocher, Julian Rodemann, Matthias Aßenmacher, Christoph Jansen:Statistical Multicriteria Evaluation of LLM-Generated Text. **INLG** (17th International Natural Language Generation Conference) 2025
+* Julian Rodemann, Unai Fischer-Abaigar, James Bailie, Krikamol Muandet: [Performative Learning Theory](https://arxiv.org/abs/2602.04402){:target="_blank"}. **ICML** 2026
+
+* Chongsheng Zhang, Hao Wang, Zelong Yu, Esteban Garces Arias, Julian Rodemann, Zhanshuo Zhang, Qilong Li, Gaojuan Fan, Krikamol Muandet, Christian Heumann: [Self-Reinforcing Controllable Synthesis of Rare Relational Data via Bayesian Calibration](https://arxiv.org/abs/2604.16817){:target="_blank"}. **ACL Findings** 2026
+
+* Julian Rodemann, Alexander Marquard, Thomas Augustin, Michele Caprio: [Self-Supervised Laplace Approximation for Bayesian Uncertainty Quantification](https://openreview.net/forum?id=T8w8L2t3JG){:target="_blank"}. **Transactions on Machine Learning Research** 2026
+
+* Xabier Gonzalez-Garcia, Siu Lun Chau, Julian Rodemann, Michele Caprio, Krikamol Muandet, Humberto Bustince, Sébastien Destercke, Eyke Hüllermeier, Yusuf Sale: [Quantification of Credal Uncertainty: A Distance-Based Approach](https://arxiv.org/abs/2603.27270){:target="_blank"}. **UAI** 2026
+
+* Yuanhao Ding, Esteban Garces Arias, Meimingwei Li, Julian Rodemann, Matthias Aßenmacher, Danlu Chen, Gaojuan Fan, Christian Heumann, Chongsheng Zhang: [GUARD: Glocal Uncertainty-Aware Robust Decoding for Effective and Efficient Open-Ended Text Generation](https://aclanthology.org/2025.findings-emnlp.380/){:target="_blank"}. **EMNLP Findings** 2025
+
+* Esteban Garces Arias, Hannah Blocher, Julian Rodemann, Matthias Aßenmacher, Christoph Jansen:[Statistical Multicriteria Evaluation of LLM-Generated Text](https://aclanthology.org/2025.inlg-main.20/){:target="_blank"}. **INLG** (17th International Natural Language Generation Conference) 2025
+
+* Esteban Garces Arias, Julian Rodemann, Christian Heumann: [The Geometry of Creative Variability: How Credal Sets Expose Calibration Gaps in Language Models](https://arxiv.org/abs/2509.23088){:target="_blank"}. **EMNLP** Workshop on Uncertainty-Aware NLP (UncertaiNLP) 2025
 
 * Julian Rodemann, Federico Croppi, Philipp Arens, Yusuf Sale, Julia Herbinger, Eyke Hüllermeier, Bernd Bis-
 chl, Thomas Augustin, Conor J. Walsh, Giuseppe Casalicchio: [Explaining Bayesian Optimization by Shapley
 Values Facilitates Human-AI Collaboration](https://arxiv.org/abs/2403.04629){:target="_blank"}, European Conference on Machine Learning and Principles and
 Practice of Knowledge Discovery in Databases **ECML-PKDD** (forthcoming), Porto, Portugal, 2025
 
-* Esteban Garces Arias, Hannah Blocher, Julian Rodemann, Meimingwei Li, Christian Heumann, Matthias Aßenmacher: Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework. ACL Workshop on Generation, Evaluation & Metrics (GEM) Workshop, co-located with ACL 2025
+* Esteban Garces Arias, Hannah Blocher, Julian Rodemann, Meimingwei Li, Christian Heumann, Matthias Aßenmacher: [Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework](https://aclanthology.org/2025.gem-1.59/){:target="_blank"}. ACL Workshop on Generation, Evaluation & Metrics (GEM) Workshop, co-located with ACL 2025
+
+* Valentin Margraf, Jonas Hanselle, Julian Rodemann, Marcel Wever, Sebastian Vollmer, Eyke Hüllermeier: [Imprecise Acquisitions in Bayesian Optimization](https://mcml.ai/uploads/MHR+25a.pdf){:target="_blank"}. Epistemic Intelligence in Machine Learning Workshop at **EurIPS** 2025
 
 * Julian Rodemann, Christoph Jansen, Georg Schollmeyer (2024): [Reciprocal Learning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0337b41b4e8b2eb5d7ab161ffd42cf3b-Abstract-Conference.html){:target="_blank"}. Neural Information Processing Systems **NeurIPS** 2024.
 
@@ -72,6 +85,10 @@ Practice of Knowledge Discovery in Databases **ECML-PKDD** (forthcoming), Porto,
 
 * Julian Rodemann, Christoph Jansen, Georg Schollmeyer, Thomas Augustin (2023): [In All Likelihood(s): Robust Selection of Pseudo-Labeled Data.](https://proceedings.mlr.press/v215/rodemann23a.html){:target="_blank"} 13th International Symposium on Imprecise Probabilities: Theories and Applications **ISIPTA**, Oviedo, Spain. PMLR.
 
+* Alexander Marquard, Julian Rodemann, Thomas Augustin (2023): [An Empirical Study of Prior-Data Conflicts in Bayesian Neural Networks.](https://isipta23.sipta.org/accepted-papers/short-marquard){:target="_blank"} 13th International Symposium on Imprecise Probabilities: Theories and Applications **ISIPTA** (Poster Abstract), Oviedo, Spain.
+
+* Julian Rodemann, Thomas Augustin, Rianne de Heide (2023): [Interpreting Generalized Bayesian Inference by Generalized Bayesian Inference.](https://isipta23.sipta.org/accepted-papers/short-rodemann){:target="_blank"} 13th International Symposium on Imprecise Probabilities: Theories and Applications **ISIPTA** (Poster Abstract), Oviedo, Spain.
+
 * Julian Rodemann, Dominik Kreiss, Eyke Hüllermeier, Thomas Augustin (2022): [Levelwise Data Disambiguation by Cautious Superset Classification.](https://link.springer.com/chapter/10.1007/978-3-031-18843-5_18){:target="_blank"} 15th International Conference on Scalable Uncertainty Management **SUM**, Paris, France. LNAI, Springer.
 
 * Julian Rodemann, Thomas Augustin (2022): [Accounting for Gaussian Process Imprecision in Bayesian Optimization.](https://link.springer.com/chapter/10.1007/978-3-030-98018-4_8){:target="_blank"} [^3] 9th International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making **IUKM**, Ishikawa, Japan. LNAI, Springer.
@@ -80,7 +97,6 @@ Practice of Knowledge Discovery in Databases **ECML-PKDD** (forthcoming), Porto,
 [^2]: Equal Contribution.
 
 [^3]: This publication is based on parts of my master thesis "Robust stochastic derivative-free optimization".
-
 
 ## Some Talks and Posters
 
