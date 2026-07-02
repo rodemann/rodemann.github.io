@@ -100,6 +100,39 @@ Practice of Knowledge Discovery in Databases **ECML-PKDD** (forthcoming), Porto,
 
 ## Some Talks and Posters
 
+* Julian Rodemann (2025): Incentive-Aware AI Regulation. Stanford Trustworthy AI Research **(STAIR)** Lab, Stanford University, USA.
+* Julian Rodemann (2025): Imprecise Bayesian Optimization. Epistemic AI Group, **TU Delft**, Netherlands.
+* Julian Rodemann (2025): How Shapley Values Can Foster Human-AI Collaboration: A Case Study on Exosuit Personalization. Department of Computer Science, Universität des Saarlandes, Saarbrücken, Germany.
+* Julian Rodemann, Christoph Jansen, Georg Schollmeyer, James Bailie (2025): On Generalization from Self-Selected Samples. Second Workshop on Machine Learning under Weakly Structured Information, Tübingen AI Center, Germany.
+* Julian Rodemann (2025): Reciprocal Learning: A Unifying Perspective on Some Learning Paradigms. Department of Statistics, London School of Economics **(LSE)**, London, United Kingdom.
+* Julian Rodemann, Christoph Jansen, Georg Schollmeyer, James Bailie (2025): Reciprocal Learning. **DAGStat** - Seventh Joint Statistical Meeting, Berlin, Germany.
+* Julian Rodemann, Christoph Jansen, Georg Schollmeyer (2025): Reciprocal Learning. **DAGStat** - Seventh Joint Statistical Meeting, Berlin, Germany.
+* Julian Rodemann (2025): Prior Misspecification in Bayesian Optimization. **CISPA** Helmholtz Center for Information Security, Saarbrücken, Germany.
+* Julian Rodemann (2025): Semi-Supervised Learning Guided by the Generalized Bayes Rule. KleinLab, Karlsruher Institut für Technologie **(KIT)**, Germany.
+* Julian Rodemann (2025): Reciprocal Learning. Explainable Machine Learning Group, Technical University of Munich **(TUM)** / Helmholtz Munich, Germany.
+* Julian Rodemann (2024): Reciprocal Learning. Optimization of Machine Learning Systems Group, University of Basel, Switzerland.
+* Julian Rodemann (2024): Beyond Static Machine Learning. Finnish Center for Artificial Intelligence **(FCAI)**, Aalto University, Finland.
+* Julian Rodemann (2024): Reciprocal Learning. Department of Statistics, Harvard University, Cambridge, USA.
+* Julian Rodemann (2024): Reciprocal Learning. Seminar für Statistik (SfS), **ETH Zürich**, Switzerland.
+* Julian Rodemann (2024): Explaining Bayesian Optimization by Shapley Values Facilitates Human-AI Collaboration. Integreat - Norwegian Centre for Knowledge-driven Machine Learning, University of Oslo & UiT Arctic University of Norway.
+* Julian Rodemann, Christoph Jansen, Georg Schollmeyer (2024): Can Reciprocal Learning Converge? First Workshop on Machine Learning under Weakly Structured Information, Munich, Germany.
+* Julian Rodemann, Federico Croppi, Philipp Arens, Yusuf Sale, Julia Herbinger, Eyke Hüllermeier, Bernd Bischl, Thomas Augustin, Conor J. Walsh, Giuseppe Casalicchio (2024): Explaining Bayesian Optimization by Shapley Values Facilitates Human-AI Collaboration. Annual Summer Retreat, Department of Statistics, Herrsching, Germany.
+* Malte Nalenz, Julian Rodemann, Thomas Augustin (2023): De-Biased Regression Trees for Complex Data. Asian Conference on Machine Learning **(ACML)**, Istanbul, Turkey.
+* Julian Rodemann, Thomas Augustin, Rianne de Heide (2023): Interpreting Generalized Bayesian Inference by Generalized Bayesian Inference. **ISIPTA** 2023
+* Alexander Marquardt, Julian Rodemann, Thomas Augustin (2023): An Empirical Study of Prior-Data Conflicts in Bayesian Neural Networks. **ISIPTA** 2023.
+* Julian Rodemann, Jann Goschenhofer, Emilio Dorigatti, Thomas Nagler, Thomas Augustin (2023): Approximately Bayes-Optimal Pseudo Label Selection. *Poster accepted for the* Fifth Symposium on Advances in Approximate Bayesian Inference **AABI**, co-located with **ICML** 2023.
+* Julian Rodemann (2023): Learning Under Weak Supervision: Insights from Decision Theory. Young Statistician's Lecture Series **(YSLS)**. International Biometric Society **(IBS)** Early Career Working Group, Germany.
+* Malte Nalenz, Julian Rodemann, Thomas Augustin (2022): De-biased Regression Trees for Complex Data. Statistical Week by the German Statistical Society **(DStatG)** in Münster, Germany. 
+* Julian Rodemann, Sebastian Fischer, Malte Nalenz, Lennart Schneider, Thomas Augustin (2022): Not All Data Are Created Equal - Lessons from Sampling Theory for Adaptive Machine Learning. *Poster presented at* **ICSDS** 2022 hosted by the Institute of Mathematical Statistics **(IMS)**.
+* Julian Rodemann (2022): Prior-RObust Bayesian Optimization (PROBO). **DAGStat** Joint Statistical Meeting in Hamburg, Germany.
+* Julian Rodemann, Thomas Augustin (2022): A Deep Dive Into BO Sensitivity and PROBO. Young Statistician's Lecture Series **(YSLS)**. **IBS** Early Career Working Group, Germany.
+* Julian Rodemann, Dominik Kreiss, Thomas Augustin, Eyke Hüllermeier (2022): Levelwise Data Disambiguation. Annual Summer Retreat, Department of Statistics, Germany.
+* Julian Rodemann, Thomas Augustin (2021): Accounting for Imprecision of Model Specification in Bayesian Optimization. *Poster presented at* **ISIPTA**, Granada, Spain. 
+* Julian Rodemann (2021): On Prior-Robustness in Bayesian Optimization. Annual Summer Retreat, Department of Statistics, Germany.
+* Julian Rodemann (2017): Clustering lifecycles. Villigst Machine Learning Undergraduate Workshop hosted by Max-Planck-Institute for Intelligent Systems **(MPI-IS)** in Tübingen, Germany.
+
+## Some Talks and Posters
+
 * Julian Rodemann, Thomas Augustin, Rianne de Heide (2023): Interpreting Generalized Bayesian Inference by Generalized Bayesian Inference. **ISIPTA** 2023
 
 * Alexander Marquardt, Julian Rodemann, Thomas Augustin (2023): An Empirical Study of Prior-Data Conflicts in Bayesian Neural Networks. **ISIPTA** 2023.
