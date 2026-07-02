@@ -5,7 +5,7 @@ header:
   overlay_filter: 0.35
   overlay_image: /assets/images/research-header.jpg
 classes: wide
-date: 2023-05-10T03:02:20+00:00
+date: 2026-03-10T03:02:20+00:00
 ---
 
 
@@ -100,7 +100,7 @@ Practice of Knowledge Discovery in Databases **ECML-PKDD** (forthcoming), Porto,
 
 ## Some Talks and Posters
 
-* Julian Rodemann (2025): Incentive-Aware AI Regulation. Stanford Trustworthy AI Research **(STAIR)** Lab, Stanford University, USA.
+* Julian Rodemann (2025): Statistical Incentive-Aware AI Alignment. Stanford Trustworthy AI Research **(STAIR)** Lab, Stanford University, USA.
 * Julian Rodemann (2025): Imprecise Bayesian Optimization. Epistemic AI Group, **TU Delft**, Netherlands.
 * Julian Rodemann (2025): How Shapley Values Can Foster Human-AI Collaboration: A Case Study on Exosuit Personalization. Department of Computer Science, Universität des Saarlandes, Saarbrücken, Germany.
 * Julian Rodemann, Christoph Jansen, Georg Schollmeyer, James Bailie (2025): On Generalization from Self-Selected Samples. Second Workshop on Machine Learning under Weakly Structured Information, Tübingen AI Center, Germany.
