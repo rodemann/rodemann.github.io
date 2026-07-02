@@ -12,9 +12,12 @@ date: 2023-05-10T03:02:20+00:00
 > -- Richard Feynman
 
 
-
-Teaching Experience as PhD Candidate:
-
+Teaching Experience:
+* Winter Term, 2025/2026
+    * Epistemological Foundations of Statistics, in Memory of Thomas Augustin (Seminar)
+    * Advanced Topics in Rational Intelligence (Seminar, University of Saarland)
+* Summer Term, 2025
+    * Statistical Inference Schools: Frequentism, Bayesianism, and Fiducialism (Seminar)
 * Winter Term, 2024/2025
     * Statistics for Geosciences (Lecture, 2h/week)
     * Statistics for Geosciences (Exercise, 2h/week)
@@ -42,17 +45,14 @@ Teaching Experience as PhD Candidate:
     * Economic and Social Statistics (Lecture, 2h/week, shared)
     * Economic and Social Statistics (Exercise, 2h/week, shared)
     * Probability Theory and Inference I (Exercise, 2h/week)
-
-Besides, I (co-)supervise BSc and MSc theses in statistics (5 completed).
-
-I also taught some undergraduate courses during my master's: 
-
 * Summer Term, 2021
-    * Introduction to Probability Calculus and Inferential Statistics (Tutorial, 2h/week)
-* Winter Term, 2019/20
-    * Generalized Regression Models (Tutorial, 2h/week)
+    * Introduction to Probability and Inference (Tutorial)
+* Winter Term, 2019/2020
+    * Generalized Regression Models (Tutorial)
 * Summer Term, 2019
-    * Linear Models (Tutorial, 2h/week)    
+    * Linear Models (Tutorial)
+
+Besides, I (co-)supervise BSc and MSc theses in statistics (6 completed).
 
 
 ---
